@@ -1,0 +1,26 @@
+div {
+    background-color: black;
+    padding: 30px;
+    width: 50%;
+    
+    margin: 25%;
+  }
+  p {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin: 0px;
+  }
+  #first {
+    text-align: center;
+    font-size: 300%;
+  }
+  #dva {
+    text-align: center;
+    font-size: 200%;
+  }
+  img {
+    object-position: center;
+    width: 100%;
+    border: 5px solid white;
+  }
